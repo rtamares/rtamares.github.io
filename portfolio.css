@@ -1,0 +1,37 @@
+.customDiv{
+	margin:3px;
+	background-color : orange;
+	line-height: 100px	
+}
+.navigator{
+	margin:3px;
+	background-color : black;
+	line-height: 50px
+	
+}
+.photo{
+	margin:3px;
+	font-family : "century gothic";
+	color: black;
+	font-size: 200%;
+	text-align:center;
+	
+		
+}
+
+body{
+	background: linear-gradient(white, #ffe3a1); 
+	 background-repeat: no-repeat;
+}
+h3{
+	text-align:center
+}
+.container-fluid{
+	background-color:black
+}
+.aboutMe{
+	text-align:center;
+}
+.submitted,p{
+	text-align:center;
+}
